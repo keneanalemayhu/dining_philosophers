@@ -60,7 +60,18 @@ Here are screenshots showing the execution of the chat application:
 You can download the 1-page project report here:  
 [Download Report (PDF)](files/report.pdf)
 
-<pre> ## Structure ``` dining_philosophers/ ├── files/ │ ├── screenshots/ │ │ └── 1.jpg – 4.jpg │ └── report.pdf ├── dining_philosophers.c – Source code for the simulation └── README.md – Project overview and instructions ``` </pre>
+## Structure 
+<pre>
+``` 
+dining_philosophers/ 
+├── files/ 
+│   ├── screenshots/
+│   │   └── 1.jpg – 4.jpg
+│   └── report.pdf 
+├── dining_philosophers.c – Source code for the simulation 
+└── README.md – Project overview and instructions 
+``` 
+</pre>
 
 ## Group Members
 
