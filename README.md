@@ -64,10 +64,15 @@ You can download the 1-page project report here:
 
 dining_philosophers/
 ├── files/
-│ ├── screenshots/
-│ │ └── 1.jpg – 4.jpg
-│ └── report.pdf
+│
+│   ├── screenshots/
+│   │   │
+│   │   └── 1.jpg – 4.jpg
+│   │
+│   └── report.pdf
+│
 ├── dining_philosophers.c – Source code for the simulation
+│
 └── README.md – Project overview and instructions
 
 ## Group Members
