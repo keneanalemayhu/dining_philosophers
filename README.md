@@ -62,7 +62,6 @@ You can download the 1-page project report here:
 
 ## Structure 
 <pre>
-``` 
 dining_philosophers/ 
 ├── files/ 
 │   ├── screenshots/
@@ -70,7 +69,6 @@ dining_philosophers/
 │   └── report.pdf 
 ├── dining_philosophers.c – Source code for the simulation 
 └── README.md – Project overview and instructions 
-``` 
 </pre>
 
 ## Group Members
